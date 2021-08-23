@@ -11,6 +11,6 @@
   "debug": true,
   "enableWorker": true,
   "lowLatencyMode": true,
-  "backBufferLength": 90
+  "backBufferLength": 10
 }
 ```
