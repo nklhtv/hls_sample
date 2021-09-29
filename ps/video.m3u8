@@ -1,0 +1,1847 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MAP:URI="video/init.mp4"
+#EXTINF: 4.000000,
+video/segment1.m4s
+#EXTINF: 4.000000,
+video/segment2.m4s
+#EXTINF: 4.000000,
+video/segment3.m4s
+#EXTINF: 4.000000,
+video/segment4.m4s
+#EXTINF: 4.000000,
+video/segment5.m4s
+#EXTINF: 4.000000,
+video/segment6.m4s
+#EXTINF: 4.000000,
+video/segment7.m4s
+#EXTINF: 4.000000,
+video/segment8.m4s
+#EXTINF: 4.000000,
+video/segment9.m4s
+#EXTINF: 4.000000,
+video/segment10.m4s
+#EXTINF: 4.000000,
+video/segment11.m4s
+#EXTINF: 4.000000,
+video/segment12.m4s
+#EXTINF: 4.000000,
+video/segment13.m4s
+#EXTINF: 4.000000,
+video/segment14.m4s
+#EXTINF: 4.000000,
+video/segment15.m4s
+#EXTINF: 4.000000,
+video/segment16.m4s
+#EXTINF: 4.000000,
+video/segment17.m4s
+#EXTINF: 4.000000,
+video/segment18.m4s
+#EXTINF: 4.000000,
+video/segment19.m4s
+#EXTINF: 4.000000,
+video/segment20.m4s
+#EXTINF: 4.000000,
+video/segment21.m4s
+#EXTINF: 4.000000,
+video/segment22.m4s
+#EXTINF: 4.000000,
+video/segment23.m4s
+#EXTINF: 4.000000,
+video/segment24.m4s
+#EXTINF: 4.000000,
+video/segment25.m4s
+#EXTINF: 4.000000,
+video/segment26.m4s
+#EXTINF: 4.000000,
+video/segment27.m4s
+#EXTINF: 4.000000,
+video/segment28.m4s
+#EXTINF: 4.000000,
+video/segment29.m4s
+#EXTINF: 4.000000,
+video/segment30.m4s
+#EXTINF: 4.000000,
+video/segment31.m4s
+#EXTINF: 4.000000,
+video/segment32.m4s
+#EXTINF: 4.000000,
+video/segment33.m4s
+#EXTINF: 4.000000,
+video/segment34.m4s
+#EXTINF: 4.000000,
+video/segment35.m4s
+#EXTINF: 4.000000,
+video/segment36.m4s
+#EXTINF: 4.000000,
+video/segment37.m4s
+#EXTINF: 4.000000,
+video/segment38.m4s
+#EXTINF: 4.000000,
+video/segment39.m4s
+#EXTINF: 4.000000,
+video/segment40.m4s
+#EXTINF: 4.000000,
+video/segment41.m4s
+#EXTINF: 4.000000,
+video/segment42.m4s
+#EXTINF: 4.000000,
+video/segment43.m4s
+#EXTINF: 4.000000,
+video/segment44.m4s
+#EXTINF: 4.000000,
+video/segment45.m4s
+#EXTINF: 4.000000,
+video/segment46.m4s
+#EXTINF: 4.000000,
+video/segment47.m4s
+#EXTINF: 4.000000,
+video/segment48.m4s
+#EXTINF: 4.000000,
+video/segment49.m4s
+#EXTINF: 4.000000,
+video/segment50.m4s
+#EXTINF: 4.000000,
+video/segment51.m4s
+#EXTINF: 4.000000,
+video/segment52.m4s
+#EXTINF: 4.000000,
+video/segment53.m4s
+#EXTINF: 4.000000,
+video/segment54.m4s
+#EXTINF: 4.000000,
+video/segment55.m4s
+#EXTINF: 4.000000,
+video/segment56.m4s
+#EXTINF: 4.000000,
+video/segment57.m4s
+#EXTINF: 4.000000,
+video/segment58.m4s
+#EXTINF: 4.000000,
+video/segment59.m4s
+#EXTINF: 4.000000,
+video/segment60.m4s
+#EXTINF: 4.000000,
+video/segment61.m4s
+#EXTINF: 4.000000,
+video/segment62.m4s
+#EXTINF: 4.000000,
+video/segment63.m4s
+#EXTINF: 4.000000,
+video/segment64.m4s
+#EXTINF: 4.000000,
+video/segment65.m4s
+#EXTINF: 4.000000,
+video/segment66.m4s
+#EXTINF: 4.000000,
+video/segment67.m4s
+#EXTINF: 4.000000,
+video/segment68.m4s
+#EXTINF: 4.000000,
+video/segment69.m4s
+#EXTINF: 4.000000,
+video/segment70.m4s
+#EXTINF: 4.000000,
+video/segment71.m4s
+#EXTINF: 4.000000,
+video/segment72.m4s
+#EXTINF: 4.000000,
+video/segment73.m4s
+#EXTINF: 4.000000,
+video/segment74.m4s
+#EXTINF: 4.000000,
+video/segment75.m4s
+#EXTINF: 4.000000,
+video/segment76.m4s
+#EXTINF: 4.000000,
+video/segment77.m4s
+#EXTINF: 4.000000,
+video/segment78.m4s
+#EXTINF: 4.000000,
+video/segment79.m4s
+#EXTINF: 4.000000,
+video/segment80.m4s
+#EXTINF: 4.000000,
+video/segment81.m4s
+#EXTINF: 4.000000,
+video/segment82.m4s
+#EXTINF: 4.000000,
+video/segment83.m4s
+#EXTINF: 4.000000,
+video/segment84.m4s
+#EXTINF: 4.000000,
+video/segment85.m4s
+#EXTINF: 4.000000,
+video/segment86.m4s
+#EXTINF: 4.000000,
+video/segment87.m4s
+#EXTINF: 4.000000,
+video/segment88.m4s
+#EXTINF: 4.000000,
+video/segment89.m4s
+#EXTINF: 4.000000,
+video/segment90.m4s
+#EXTINF: 4.000000,
+video/segment91.m4s
+#EXTINF: 4.000000,
+video/segment92.m4s
+#EXTINF: 4.000000,
+video/segment93.m4s
+#EXTINF: 4.000000,
+video/segment94.m4s
+#EXTINF: 4.000000,
+video/segment95.m4s
+#EXTINF: 4.000000,
+video/segment96.m4s
+#EXTINF: 4.000000,
+video/segment97.m4s
+#EXTINF: 4.000000,
+video/segment98.m4s
+#EXTINF: 4.000000,
+video/segment99.m4s
+#EXTINF: 4.000000,
+video/segment100.m4s
+#EXTINF: 4.000000,
+video/segment101.m4s
+#EXTINF: 4.000000,
+video/segment102.m4s
+#EXTINF: 4.000000,
+video/segment103.m4s
+#EXTINF: 4.000000,
+video/segment104.m4s
+#EXTINF: 4.000000,
+video/segment105.m4s
+#EXTINF: 4.000000,
+video/segment106.m4s
+#EXTINF: 4.000000,
+video/segment107.m4s
+#EXTINF: 4.000000,
+video/segment108.m4s
+#EXTINF: 4.000000,
+video/segment109.m4s
+#EXTINF: 4.000000,
+video/segment110.m4s
+#EXTINF: 4.000000,
+video/segment111.m4s
+#EXTINF: 4.000000,
+video/segment112.m4s
+#EXTINF: 4.000000,
+video/segment113.m4s
+#EXTINF: 4.000000,
+video/segment114.m4s
+#EXTINF: 4.000000,
+video/segment115.m4s
+#EXTINF: 4.000000,
+video/segment116.m4s
+#EXTINF: 4.000000,
+video/segment117.m4s
+#EXTINF: 4.000000,
+video/segment118.m4s
+#EXTINF: 4.000000,
+video/segment119.m4s
+#EXTINF: 4.000000,
+video/segment120.m4s
+#EXTINF: 4.000000,
+video/segment121.m4s
+#EXTINF: 4.000000,
+video/segment122.m4s
+#EXTINF: 4.000000,
+video/segment123.m4s
+#EXTINF: 4.000000,
+video/segment124.m4s
+#EXTINF: 4.000000,
+video/segment125.m4s
+#EXTINF: 4.000000,
+video/segment126.m4s
+#EXTINF: 4.000000,
+video/segment127.m4s
+#EXTINF: 4.000000,
+video/segment128.m4s
+#EXTINF: 4.000000,
+video/segment129.m4s
+#EXTINF: 4.000000,
+video/segment130.m4s
+#EXTINF: 4.000000,
+video/segment131.m4s
+#EXTINF: 4.000000,
+video/segment132.m4s
+#EXTINF: 4.000000,
+video/segment133.m4s
+#EXTINF: 4.000000,
+video/segment134.m4s
+#EXTINF: 4.000000,
+video/segment135.m4s
+#EXTINF: 4.000000,
+video/segment136.m4s
+#EXTINF: 4.000000,
+video/segment137.m4s
+#EXTINF: 4.000000,
+video/segment138.m4s
+#EXTINF: 4.000000,
+video/segment139.m4s
+#EXTINF: 4.000000,
+video/segment140.m4s
+#EXTINF: 4.000000,
+video/segment141.m4s
+#EXTINF: 4.000000,
+video/segment142.m4s
+#EXTINF: 4.000000,
+video/segment143.m4s
+#EXTINF: 4.000000,
+video/segment144.m4s
+#EXTINF: 4.000000,
+video/segment145.m4s
+#EXTINF: 4.000000,
+video/segment146.m4s
+#EXTINF: 4.000000,
+video/segment147.m4s
+#EXTINF: 4.000000,
+video/segment148.m4s
+#EXTINF: 4.000000,
+video/segment149.m4s
+#EXTINF: 4.000000,
+video/segment150.m4s
+#EXTINF: 4.000000,
+video/segment151.m4s
+#EXTINF: 4.000000,
+video/segment152.m4s
+#EXTINF: 4.000000,
+video/segment153.m4s
+#EXTINF: 4.000000,
+video/segment154.m4s
+#EXTINF: 4.000000,
+video/segment155.m4s
+#EXTINF: 4.000000,
+video/segment156.m4s
+#EXTINF: 4.000000,
+video/segment157.m4s
+#EXTINF: 4.000000,
+video/segment158.m4s
+#EXTINF: 4.000000,
+video/segment159.m4s
+#EXTINF: 4.000000,
+video/segment160.m4s
+#EXTINF: 4.000000,
+video/segment161.m4s
+#EXTINF: 4.000000,
+video/segment162.m4s
+#EXTINF: 4.000000,
+video/segment163.m4s
+#EXTINF: 4.000000,
+video/segment164.m4s
+#EXTINF: 4.000000,
+video/segment165.m4s
+#EXTINF: 4.000000,
+video/segment166.m4s
+#EXTINF: 4.000000,
+video/segment167.m4s
+#EXTINF: 4.000000,
+video/segment168.m4s
+#EXTINF: 4.000000,
+video/segment169.m4s
+#EXTINF: 4.000000,
+video/segment170.m4s
+#EXTINF: 4.000000,
+video/segment171.m4s
+#EXTINF: 4.000000,
+video/segment172.m4s
+#EXTINF: 4.000000,
+video/segment173.m4s
+#EXTINF: 4.000000,
+video/segment174.m4s
+#EXTINF: 4.000000,
+video/segment175.m4s
+#EXTINF: 4.000000,
+video/segment176.m4s
+#EXTINF: 4.000000,
+video/segment177.m4s
+#EXTINF: 4.000000,
+video/segment178.m4s
+#EXTINF: 4.000000,
+video/segment179.m4s
+#EXTINF: 4.000000,
+video/segment180.m4s
+#EXTINF: 4.000000,
+video/segment181.m4s
+#EXTINF: 4.000000,
+video/segment182.m4s
+#EXTINF: 4.000000,
+video/segment183.m4s
+#EXTINF: 4.000000,
+video/segment184.m4s
+#EXTINF: 4.000000,
+video/segment185.m4s
+#EXTINF: 4.000000,
+video/segment186.m4s
+#EXTINF: 4.000000,
+video/segment187.m4s
+#EXTINF: 4.000000,
+video/segment188.m4s
+#EXTINF: 4.000000,
+video/segment189.m4s
+#EXTINF: 4.000000,
+video/segment190.m4s
+#EXTINF: 4.000000,
+video/segment191.m4s
+#EXTINF: 4.000000,
+video/segment192.m4s
+#EXTINF: 4.000000,
+video/segment193.m4s
+#EXTINF: 4.000000,
+video/segment194.m4s
+#EXTINF: 4.000000,
+video/segment195.m4s
+#EXTINF: 4.000000,
+video/segment196.m4s
+#EXTINF: 4.000000,
+video/segment197.m4s
+#EXTINF: 4.000000,
+video/segment198.m4s
+#EXTINF: 4.000000,
+video/segment199.m4s
+#EXTINF: 4.000000,
+video/segment200.m4s
+#EXTINF: 4.000000,
+video/segment201.m4s
+#EXTINF: 4.000000,
+video/segment202.m4s
+#EXTINF: 4.000000,
+video/segment203.m4s
+#EXTINF: 4.000000,
+video/segment204.m4s
+#EXTINF: 4.000000,
+video/segment205.m4s
+#EXTINF: 4.000000,
+video/segment206.m4s
+#EXTINF: 4.000000,
+video/segment207.m4s
+#EXTINF: 4.000000,
+video/segment208.m4s
+#EXTINF: 4.000000,
+video/segment209.m4s
+#EXTINF: 4.000000,
+video/segment210.m4s
+#EXTINF: 4.000000,
+video/segment211.m4s
+#EXTINF: 4.000000,
+video/segment212.m4s
+#EXTINF: 4.000000,
+video/segment213.m4s
+#EXTINF: 4.000000,
+video/segment214.m4s
+#EXTINF: 4.000000,
+video/segment215.m4s
+#EXTINF: 4.000000,
+video/segment216.m4s
+#EXTINF: 4.000000,
+video/segment217.m4s
+#EXTINF: 4.000000,
+video/segment218.m4s
+#EXTINF: 4.000000,
+video/segment219.m4s
+#EXTINF: 4.000000,
+video/segment220.m4s
+#EXTINF: 4.000000,
+video/segment221.m4s
+#EXTINF: 4.000000,
+video/segment222.m4s
+#EXTINF: 4.000000,
+video/segment223.m4s
+#EXTINF: 4.000000,
+video/segment224.m4s
+#EXTINF: 4.000000,
+video/segment225.m4s
+#EXTINF: 4.000000,
+video/segment226.m4s
+#EXTINF: 4.000000,
+video/segment227.m4s
+#EXTINF: 4.000000,
+video/segment228.m4s
+#EXTINF: 4.000000,
+video/segment229.m4s
+#EXTINF: 4.000000,
+video/segment230.m4s
+#EXTINF: 4.000000,
+video/segment231.m4s
+#EXTINF: 4.000000,
+video/segment232.m4s
+#EXTINF: 4.000000,
+video/segment233.m4s
+#EXTINF: 4.000000,
+video/segment234.m4s
+#EXTINF: 4.000000,
+video/segment235.m4s
+#EXTINF: 4.000000,
+video/segment236.m4s
+#EXTINF: 4.000000,
+video/segment237.m4s
+#EXTINF: 4.000000,
+video/segment238.m4s
+#EXTINF: 4.000000,
+video/segment239.m4s
+#EXTINF: 4.000000,
+video/segment240.m4s
+#EXTINF: 4.000000,
+video/segment241.m4s
+#EXTINF: 4.000000,
+video/segment242.m4s
+#EXTINF: 4.000000,
+video/segment243.m4s
+#EXTINF: 4.000000,
+video/segment244.m4s
+#EXTINF: 4.000000,
+video/segment245.m4s
+#EXTINF: 4.000000,
+video/segment246.m4s
+#EXTINF: 4.000000,
+video/segment247.m4s
+#EXTINF: 4.000000,
+video/segment248.m4s
+#EXTINF: 4.000000,
+video/segment249.m4s
+#EXTINF: 4.000000,
+video/segment250.m4s
+#EXTINF: 4.000000,
+video/segment251.m4s
+#EXTINF: 4.000000,
+video/segment252.m4s
+#EXTINF: 4.000000,
+video/segment253.m4s
+#EXTINF: 4.000000,
+video/segment254.m4s
+#EXTINF: 4.000000,
+video/segment255.m4s
+#EXTINF: 4.000000,
+video/segment256.m4s
+#EXTINF: 4.000000,
+video/segment257.m4s
+#EXTINF: 4.000000,
+video/segment258.m4s
+#EXTINF: 4.000000,
+video/segment259.m4s
+#EXTINF: 4.000000,
+video/segment260.m4s
+#EXTINF: 4.000000,
+video/segment261.m4s
+#EXTINF: 4.000000,
+video/segment262.m4s
+#EXTINF: 4.000000,
+video/segment263.m4s
+#EXTINF: 4.000000,
+video/segment264.m4s
+#EXTINF: 4.000000,
+video/segment265.m4s
+#EXTINF: 4.000000,
+video/segment266.m4s
+#EXTINF: 4.000000,
+video/segment267.m4s
+#EXTINF: 4.000000,
+video/segment268.m4s
+#EXTINF: 4.000000,
+video/segment269.m4s
+#EXTINF: 4.000000,
+video/segment270.m4s
+#EXTINF: 4.000000,
+video/segment271.m4s
+#EXTINF: 4.000000,
+video/segment272.m4s
+#EXTINF: 4.000000,
+video/segment273.m4s
+#EXTINF: 4.000000,
+video/segment274.m4s
+#EXTINF: 4.000000,
+video/segment275.m4s
+#EXTINF: 4.000000,
+video/segment276.m4s
+#EXTINF: 4.000000,
+video/segment277.m4s
+#EXTINF: 4.000000,
+video/segment278.m4s
+#EXTINF: 4.000000,
+video/segment279.m4s
+#EXTINF: 4.000000,
+video/segment280.m4s
+#EXTINF: 4.000000,
+video/segment281.m4s
+#EXTINF: 4.000000,
+video/segment282.m4s
+#EXTINF: 4.000000,
+video/segment283.m4s
+#EXTINF: 4.000000,
+video/segment284.m4s
+#EXTINF: 4.000000,
+video/segment285.m4s
+#EXTINF: 4.000000,
+video/segment286.m4s
+#EXTINF: 4.000000,
+video/segment287.m4s
+#EXTINF: 4.000000,
+video/segment288.m4s
+#EXTINF: 4.000000,
+video/segment289.m4s
+#EXTINF: 4.000000,
+video/segment290.m4s
+#EXTINF: 4.000000,
+video/segment291.m4s
+#EXTINF: 4.000000,
+video/segment292.m4s
+#EXTINF: 4.000000,
+video/segment293.m4s
+#EXTINF: 4.000000,
+video/segment294.m4s
+#EXTINF: 4.000000,
+video/segment295.m4s
+#EXTINF: 4.000000,
+video/segment296.m4s
+#EXTINF: 4.000000,
+video/segment297.m4s
+#EXTINF: 4.000000,
+video/segment298.m4s
+#EXTINF: 4.000000,
+video/segment299.m4s
+#EXTINF: 4.000000,
+video/segment300.m4s
+#EXTINF: 4.000000,
+video/segment301.m4s
+#EXTINF: 4.000000,
+video/segment302.m4s
+#EXTINF: 4.000000,
+video/segment303.m4s
+#EXTINF: 4.000000,
+video/segment304.m4s
+#EXTINF: 4.000000,
+video/segment305.m4s
+#EXTINF: 4.000000,
+video/segment306.m4s
+#EXTINF: 4.000000,
+video/segment307.m4s
+#EXTINF: 4.000000,
+video/segment308.m4s
+#EXTINF: 4.000000,
+video/segment309.m4s
+#EXTINF: 4.000000,
+video/segment310.m4s
+#EXTINF: 4.000000,
+video/segment311.m4s
+#EXTINF: 4.000000,
+video/segment312.m4s
+#EXTINF: 4.000000,
+video/segment313.m4s
+#EXTINF: 4.000000,
+video/segment314.m4s
+#EXTINF: 4.000000,
+video/segment315.m4s
+#EXTINF: 4.000000,
+video/segment316.m4s
+#EXTINF: 4.000000,
+video/segment317.m4s
+#EXTINF: 4.000000,
+video/segment318.m4s
+#EXTINF: 4.000000,
+video/segment319.m4s
+#EXTINF: 4.000000,
+video/segment320.m4s
+#EXTINF: 4.000000,
+video/segment321.m4s
+#EXTINF: 4.000000,
+video/segment322.m4s
+#EXTINF: 4.000000,
+video/segment323.m4s
+#EXTINF: 4.000000,
+video/segment324.m4s
+#EXTINF: 4.000000,
+video/segment325.m4s
+#EXTINF: 4.000000,
+video/segment326.m4s
+#EXTINF: 4.000000,
+video/segment327.m4s
+#EXTINF: 4.000000,
+video/segment328.m4s
+#EXTINF: 4.000000,
+video/segment329.m4s
+#EXTINF: 4.000000,
+video/segment330.m4s
+#EXTINF: 4.000000,
+video/segment331.m4s
+#EXTINF: 4.000000,
+video/segment332.m4s
+#EXTINF: 4.000000,
+video/segment333.m4s
+#EXTINF: 4.000000,
+video/segment334.m4s
+#EXTINF: 4.000000,
+video/segment335.m4s
+#EXTINF: 4.000000,
+video/segment336.m4s
+#EXTINF: 4.000000,
+video/segment337.m4s
+#EXTINF: 4.000000,
+video/segment338.m4s
+#EXTINF: 4.000000,
+video/segment339.m4s
+#EXTINF: 4.000000,
+video/segment340.m4s
+#EXTINF: 4.000000,
+video/segment341.m4s
+#EXTINF: 4.000000,
+video/segment342.m4s
+#EXTINF: 4.000000,
+video/segment343.m4s
+#EXTINF: 4.000000,
+video/segment344.m4s
+#EXTINF: 4.000000,
+video/segment345.m4s
+#EXTINF: 4.000000,
+video/segment346.m4s
+#EXTINF: 4.000000,
+video/segment347.m4s
+#EXTINF: 4.000000,
+video/segment348.m4s
+#EXTINF: 4.000000,
+video/segment349.m4s
+#EXTINF: 4.000000,
+video/segment350.m4s
+#EXTINF: 4.000000,
+video/segment351.m4s
+#EXTINF: 4.000000,
+video/segment352.m4s
+#EXTINF: 4.000000,
+video/segment353.m4s
+#EXTINF: 4.000000,
+video/segment354.m4s
+#EXTINF: 4.000000,
+video/segment355.m4s
+#EXTINF: 4.000000,
+video/segment356.m4s
+#EXTINF: 4.000000,
+video/segment357.m4s
+#EXTINF: 4.000000,
+video/segment358.m4s
+#EXTINF: 4.000000,
+video/segment359.m4s
+#EXTINF: 4.000000,
+video/segment360.m4s
+#EXTINF: 4.000000,
+video/segment361.m4s
+#EXTINF: 4.000000,
+video/segment362.m4s
+#EXTINF: 4.000000,
+video/segment363.m4s
+#EXTINF: 4.000000,
+video/segment364.m4s
+#EXTINF: 4.000000,
+video/segment365.m4s
+#EXTINF: 4.000000,
+video/segment366.m4s
+#EXTINF: 4.000000,
+video/segment367.m4s
+#EXTINF: 4.000000,
+video/segment368.m4s
+#EXTINF: 4.000000,
+video/segment369.m4s
+#EXTINF: 4.000000,
+video/segment370.m4s
+#EXTINF: 4.000000,
+video/segment371.m4s
+#EXTINF: 4.000000,
+video/segment372.m4s
+#EXTINF: 4.000000,
+video/segment373.m4s
+#EXTINF: 4.000000,
+video/segment374.m4s
+#EXTINF: 4.000000,
+video/segment375.m4s
+#EXTINF: 4.000000,
+video/segment376.m4s
+#EXTINF: 4.000000,
+video/segment377.m4s
+#EXTINF: 4.000000,
+video/segment378.m4s
+#EXTINF: 4.000000,
+video/segment379.m4s
+#EXTINF: 4.000000,
+video/segment380.m4s
+#EXTINF: 4.000000,
+video/segment381.m4s
+#EXTINF: 4.000000,
+video/segment382.m4s
+#EXTINF: 4.000000,
+video/segment383.m4s
+#EXTINF: 4.000000,
+video/segment384.m4s
+#EXTINF: 4.000000,
+video/segment385.m4s
+#EXTINF: 4.000000,
+video/segment386.m4s
+#EXTINF: 4.000000,
+video/segment387.m4s
+#EXTINF: 4.000000,
+video/segment388.m4s
+#EXTINF: 4.000000,
+video/segment389.m4s
+#EXTINF: 4.000000,
+video/segment390.m4s
+#EXTINF: 4.000000,
+video/segment391.m4s
+#EXTINF: 4.000000,
+video/segment392.m4s
+#EXTINF: 4.000000,
+video/segment393.m4s
+#EXTINF: 4.000000,
+video/segment394.m4s
+#EXTINF: 4.000000,
+video/segment395.m4s
+#EXTINF: 4.000000,
+video/segment396.m4s
+#EXTINF: 4.000000,
+video/segment397.m4s
+#EXTINF: 4.000000,
+video/segment398.m4s
+#EXTINF: 4.000000,
+video/segment399.m4s
+#EXTINF: 4.000000,
+video/segment400.m4s
+#EXTINF: 4.000000,
+video/segment401.m4s
+#EXTINF: 4.000000,
+video/segment402.m4s
+#EXTINF: 4.000000,
+video/segment403.m4s
+#EXTINF: 4.000000,
+video/segment404.m4s
+#EXTINF: 4.000000,
+video/segment405.m4s
+#EXTINF: 4.000000,
+video/segment406.m4s
+#EXTINF: 4.000000,
+video/segment407.m4s
+#EXTINF: 4.000000,
+video/segment408.m4s
+#EXTINF: 4.000000,
+video/segment409.m4s
+#EXTINF: 4.000000,
+video/segment410.m4s
+#EXTINF: 4.000000,
+video/segment411.m4s
+#EXTINF: 4.000000,
+video/segment412.m4s
+#EXTINF: 4.000000,
+video/segment413.m4s
+#EXTINF: 4.000000,
+video/segment414.m4s
+#EXTINF: 4.000000,
+video/segment415.m4s
+#EXTINF: 4.000000,
+video/segment416.m4s
+#EXTINF: 4.000000,
+video/segment417.m4s
+#EXTINF: 4.000000,
+video/segment418.m4s
+#EXTINF: 4.000000,
+video/segment419.m4s
+#EXTINF: 4.000000,
+video/segment420.m4s
+#EXTINF: 4.000000,
+video/segment421.m4s
+#EXTINF: 4.000000,
+video/segment422.m4s
+#EXTINF: 4.000000,
+video/segment423.m4s
+#EXTINF: 4.000000,
+video/segment424.m4s
+#EXTINF: 4.000000,
+video/segment425.m4s
+#EXTINF: 4.000000,
+video/segment426.m4s
+#EXTINF: 4.000000,
+video/segment427.m4s
+#EXTINF: 4.000000,
+video/segment428.m4s
+#EXTINF: 4.000000,
+video/segment429.m4s
+#EXTINF: 4.000000,
+video/segment430.m4s
+#EXTINF: 4.000000,
+video/segment431.m4s
+#EXTINF: 4.000000,
+video/segment432.m4s
+#EXTINF: 4.000000,
+video/segment433.m4s
+#EXTINF: 4.000000,
+video/segment434.m4s
+#EXTINF: 4.000000,
+video/segment435.m4s
+#EXTINF: 4.000000,
+video/segment436.m4s
+#EXTINF: 4.000000,
+video/segment437.m4s
+#EXTINF: 4.000000,
+video/segment438.m4s
+#EXTINF: 4.000000,
+video/segment439.m4s
+#EXTINF: 4.000000,
+video/segment440.m4s
+#EXTINF: 4.000000,
+video/segment441.m4s
+#EXTINF: 4.000000,
+video/segment442.m4s
+#EXTINF: 4.000000,
+video/segment443.m4s
+#EXTINF: 4.000000,
+video/segment444.m4s
+#EXTINF: 4.000000,
+video/segment445.m4s
+#EXTINF: 4.000000,
+video/segment446.m4s
+#EXTINF: 4.000000,
+video/segment447.m4s
+#EXTINF: 4.000000,
+video/segment448.m4s
+#EXTINF: 4.000000,
+video/segment449.m4s
+#EXTINF: 4.000000,
+video/segment450.m4s
+#EXTINF: 4.000000,
+video/segment451.m4s
+#EXTINF: 4.000000,
+video/segment452.m4s
+#EXTINF: 4.000000,
+video/segment453.m4s
+#EXTINF: 4.000000,
+video/segment454.m4s
+#EXTINF: 4.000000,
+video/segment455.m4s
+#EXTINF: 4.000000,
+video/segment456.m4s
+#EXTINF: 4.000000,
+video/segment457.m4s
+#EXTINF: 4.000000,
+video/segment458.m4s
+#EXTINF: 4.000000,
+video/segment459.m4s
+#EXTINF: 4.000000,
+video/segment460.m4s
+#EXTINF: 4.000000,
+video/segment461.m4s
+#EXTINF: 4.000000,
+video/segment462.m4s
+#EXTINF: 4.000000,
+video/segment463.m4s
+#EXTINF: 4.000000,
+video/segment464.m4s
+#EXTINF: 4.000000,
+video/segment465.m4s
+#EXTINF: 4.000000,
+video/segment466.m4s
+#EXTINF: 4.000000,
+video/segment467.m4s
+#EXTINF: 4.000000,
+video/segment468.m4s
+#EXTINF: 4.000000,
+video/segment469.m4s
+#EXTINF: 4.000000,
+video/segment470.m4s
+#EXTINF: 4.000000,
+video/segment471.m4s
+#EXTINF: 4.000000,
+video/segment472.m4s
+#EXTINF: 4.000000,
+video/segment473.m4s
+#EXTINF: 4.000000,
+video/segment474.m4s
+#EXTINF: 4.000000,
+video/segment475.m4s
+#EXTINF: 4.000000,
+video/segment476.m4s
+#EXTINF: 4.000000,
+video/segment477.m4s
+#EXTINF: 4.000000,
+video/segment478.m4s
+#EXTINF: 4.000000,
+video/segment479.m4s
+#EXTINF: 4.000000,
+video/segment480.m4s
+#EXTINF: 4.000000,
+video/segment481.m4s
+#EXTINF: 4.000000,
+video/segment482.m4s
+#EXTINF: 4.000000,
+video/segment483.m4s
+#EXTINF: 4.000000,
+video/segment484.m4s
+#EXTINF: 4.000000,
+video/segment485.m4s
+#EXTINF: 4.000000,
+video/segment486.m4s
+#EXTINF: 4.000000,
+video/segment487.m4s
+#EXTINF: 4.000000,
+video/segment488.m4s
+#EXTINF: 4.000000,
+video/segment489.m4s
+#EXTINF: 4.000000,
+video/segment490.m4s
+#EXTINF: 4.000000,
+video/segment491.m4s
+#EXTINF: 4.000000,
+video/segment492.m4s
+#EXTINF: 4.000000,
+video/segment493.m4s
+#EXTINF: 4.000000,
+video/segment494.m4s
+#EXTINF: 4.000000,
+video/segment495.m4s
+#EXTINF: 4.000000,
+video/segment496.m4s
+#EXTINF: 4.000000,
+video/segment497.m4s
+#EXTINF: 4.000000,
+video/segment498.m4s
+#EXTINF: 4.000000,
+video/segment499.m4s
+#EXTINF: 4.000000,
+video/segment500.m4s
+#EXTINF: 4.000000,
+video/segment501.m4s
+#EXTINF: 4.000000,
+video/segment502.m4s
+#EXTINF: 4.000000,
+video/segment503.m4s
+#EXTINF: 4.000000,
+video/segment504.m4s
+#EXTINF: 4.000000,
+video/segment505.m4s
+#EXTINF: 4.000000,
+video/segment506.m4s
+#EXTINF: 4.000000,
+video/segment507.m4s
+#EXTINF: 4.000000,
+video/segment508.m4s
+#EXTINF: 4.000000,
+video/segment509.m4s
+#EXTINF: 4.000000,
+video/segment510.m4s
+#EXTINF: 4.000000,
+video/segment511.m4s
+#EXTINF: 4.000000,
+video/segment512.m4s
+#EXTINF: 4.000000,
+video/segment513.m4s
+#EXTINF: 4.000000,
+video/segment514.m4s
+#EXTINF: 4.000000,
+video/segment515.m4s
+#EXTINF: 4.000000,
+video/segment516.m4s
+#EXTINF: 4.000000,
+video/segment517.m4s
+#EXTINF: 4.000000,
+video/segment518.m4s
+#EXTINF: 4.000000,
+video/segment519.m4s
+#EXTINF: 4.000000,
+video/segment520.m4s
+#EXTINF: 4.000000,
+video/segment521.m4s
+#EXTINF: 4.000000,
+video/segment522.m4s
+#EXTINF: 4.000000,
+video/segment523.m4s
+#EXTINF: 4.000000,
+video/segment524.m4s
+#EXTINF: 4.000000,
+video/segment525.m4s
+#EXTINF: 4.000000,
+video/segment526.m4s
+#EXTINF: 4.000000,
+video/segment527.m4s
+#EXTINF: 4.000000,
+video/segment528.m4s
+#EXTINF: 4.000000,
+video/segment529.m4s
+#EXTINF: 4.000000,
+video/segment530.m4s
+#EXTINF: 4.000000,
+video/segment531.m4s
+#EXTINF: 4.000000,
+video/segment532.m4s
+#EXTINF: 4.000000,
+video/segment533.m4s
+#EXTINF: 4.000000,
+video/segment534.m4s
+#EXTINF: 4.000000,
+video/segment535.m4s
+#EXTINF: 4.000000,
+video/segment536.m4s
+#EXTINF: 4.000000,
+video/segment537.m4s
+#EXTINF: 4.000000,
+video/segment538.m4s
+#EXTINF: 4.000000,
+video/segment539.m4s
+#EXTINF: 4.000000,
+video/segment540.m4s
+#EXTINF: 4.000000,
+video/segment541.m4s
+#EXTINF: 4.000000,
+video/segment542.m4s
+#EXTINF: 4.000000,
+video/segment543.m4s
+#EXTINF: 4.000000,
+video/segment544.m4s
+#EXTINF: 4.000000,
+video/segment545.m4s
+#EXTINF: 4.000000,
+video/segment546.m4s
+#EXTINF: 4.000000,
+video/segment547.m4s
+#EXTINF: 4.000000,
+video/segment548.m4s
+#EXTINF: 4.000000,
+video/segment549.m4s
+#EXTINF: 4.000000,
+video/segment550.m4s
+#EXTINF: 4.000000,
+video/segment551.m4s
+#EXTINF: 4.000000,
+video/segment552.m4s
+#EXTINF: 4.000000,
+video/segment553.m4s
+#EXTINF: 4.000000,
+video/segment554.m4s
+#EXTINF: 4.000000,
+video/segment555.m4s
+#EXTINF: 4.000000,
+video/segment556.m4s
+#EXTINF: 4.000000,
+video/segment557.m4s
+#EXTINF: 4.000000,
+video/segment558.m4s
+#EXTINF: 4.000000,
+video/segment559.m4s
+#EXTINF: 4.000000,
+video/segment560.m4s
+#EXTINF: 4.000000,
+video/segment561.m4s
+#EXTINF: 4.000000,
+video/segment562.m4s
+#EXTINF: 4.000000,
+video/segment563.m4s
+#EXTINF: 4.000000,
+video/segment564.m4s
+#EXTINF: 4.000000,
+video/segment565.m4s
+#EXTINF: 4.000000,
+video/segment566.m4s
+#EXTINF: 4.000000,
+video/segment567.m4s
+#EXTINF: 4.000000,
+video/segment568.m4s
+#EXTINF: 4.000000,
+video/segment569.m4s
+#EXTINF: 4.000000,
+video/segment570.m4s
+#EXTINF: 4.000000,
+video/segment571.m4s
+#EXTINF: 4.000000,
+video/segment572.m4s
+#EXTINF: 4.000000,
+video/segment573.m4s
+#EXTINF: 4.000000,
+video/segment574.m4s
+#EXTINF: 4.000000,
+video/segment575.m4s
+#EXTINF: 4.000000,
+video/segment576.m4s
+#EXTINF: 4.000000,
+video/segment577.m4s
+#EXTINF: 4.000000,
+video/segment578.m4s
+#EXTINF: 4.000000,
+video/segment579.m4s
+#EXTINF: 4.000000,
+video/segment580.m4s
+#EXTINF: 4.000000,
+video/segment581.m4s
+#EXTINF: 4.000000,
+video/segment582.m4s
+#EXTINF: 4.000000,
+video/segment583.m4s
+#EXTINF: 4.000000,
+video/segment584.m4s
+#EXTINF: 4.000000,
+video/segment585.m4s
+#EXTINF: 4.000000,
+video/segment586.m4s
+#EXTINF: 4.000000,
+video/segment587.m4s
+#EXTINF: 4.000000,
+video/segment588.m4s
+#EXTINF: 4.000000,
+video/segment589.m4s
+#EXTINF: 4.000000,
+video/segment590.m4s
+#EXTINF: 4.000000,
+video/segment591.m4s
+#EXTINF: 4.000000,
+video/segment592.m4s
+#EXTINF: 4.000000,
+video/segment593.m4s
+#EXTINF: 4.000000,
+video/segment594.m4s
+#EXTINF: 4.000000,
+video/segment595.m4s
+#EXTINF: 4.000000,
+video/segment596.m4s
+#EXTINF: 4.000000,
+video/segment597.m4s
+#EXTINF: 4.000000,
+video/segment598.m4s
+#EXTINF: 4.000000,
+video/segment599.m4s
+#EXTINF: 4.000000,
+video/segment600.m4s
+#EXTINF: 4.000000,
+video/segment601.m4s
+#EXTINF: 4.000000,
+video/segment602.m4s
+#EXTINF: 4.000000,
+video/segment603.m4s
+#EXTINF: 4.000000,
+video/segment604.m4s
+#EXTINF: 4.000000,
+video/segment605.m4s
+#EXTINF: 4.000000,
+video/segment606.m4s
+#EXTINF: 4.000000,
+video/segment607.m4s
+#EXTINF: 4.000000,
+video/segment608.m4s
+#EXTINF: 4.000000,
+video/segment609.m4s
+#EXTINF: 4.000000,
+video/segment610.m4s
+#EXTINF: 4.000000,
+video/segment611.m4s
+#EXTINF: 4.000000,
+video/segment612.m4s
+#EXTINF: 4.000000,
+video/segment613.m4s
+#EXTINF: 4.000000,
+video/segment614.m4s
+#EXTINF: 4.000000,
+video/segment615.m4s
+#EXTINF: 4.000000,
+video/segment616.m4s
+#EXTINF: 4.000000,
+video/segment617.m4s
+#EXTINF: 4.000000,
+video/segment618.m4s
+#EXTINF: 4.000000,
+video/segment619.m4s
+#EXTINF: 4.000000,
+video/segment620.m4s
+#EXTINF: 4.000000,
+video/segment621.m4s
+#EXTINF: 4.000000,
+video/segment622.m4s
+#EXTINF: 4.000000,
+video/segment623.m4s
+#EXTINF: 4.000000,
+video/segment624.m4s
+#EXTINF: 4.000000,
+video/segment625.m4s
+#EXTINF: 4.000000,
+video/segment626.m4s
+#EXTINF: 4.000000,
+video/segment627.m4s
+#EXTINF: 4.000000,
+video/segment628.m4s
+#EXTINF: 4.000000,
+video/segment629.m4s
+#EXTINF: 4.000000,
+video/segment630.m4s
+#EXTINF: 4.000000,
+video/segment631.m4s
+#EXTINF: 4.000000,
+video/segment632.m4s
+#EXTINF: 4.000000,
+video/segment633.m4s
+#EXTINF: 4.000000,
+video/segment634.m4s
+#EXTINF: 4.000000,
+video/segment635.m4s
+#EXTINF: 4.000000,
+video/segment636.m4s
+#EXTINF: 4.000000,
+video/segment637.m4s
+#EXTINF: 4.000000,
+video/segment638.m4s
+#EXTINF: 4.000000,
+video/segment639.m4s
+#EXTINF: 4.000000,
+video/segment640.m4s
+#EXTINF: 4.000000,
+video/segment641.m4s
+#EXTINF: 4.000000,
+video/segment642.m4s
+#EXTINF: 4.000000,
+video/segment643.m4s
+#EXTINF: 4.000000,
+video/segment644.m4s
+#EXTINF: 4.000000,
+video/segment645.m4s
+#EXTINF: 4.000000,
+video/segment646.m4s
+#EXTINF: 4.000000,
+video/segment647.m4s
+#EXTINF: 4.000000,
+video/segment648.m4s
+#EXTINF: 4.000000,
+video/segment649.m4s
+#EXTINF: 4.000000,
+video/segment650.m4s
+#EXTINF: 4.000000,
+video/segment651.m4s
+#EXTINF: 4.000000,
+video/segment652.m4s
+#EXTINF: 4.000000,
+video/segment653.m4s
+#EXTINF: 4.000000,
+video/segment654.m4s
+#EXTINF: 4.000000,
+video/segment655.m4s
+#EXTINF: 4.000000,
+video/segment656.m4s
+#EXTINF: 4.000000,
+video/segment657.m4s
+#EXTINF: 4.000000,
+video/segment658.m4s
+#EXTINF: 4.000000,
+video/segment659.m4s
+#EXTINF: 4.000000,
+video/segment660.m4s
+#EXTINF: 4.000000,
+video/segment661.m4s
+#EXTINF: 4.000000,
+video/segment662.m4s
+#EXTINF: 4.000000,
+video/segment663.m4s
+#EXTINF: 4.000000,
+video/segment664.m4s
+#EXTINF: 4.000000,
+video/segment665.m4s
+#EXTINF: 4.000000,
+video/segment666.m4s
+#EXTINF: 4.000000,
+video/segment667.m4s
+#EXTINF: 4.000000,
+video/segment668.m4s
+#EXTINF: 4.000000,
+video/segment669.m4s
+#EXTINF: 4.000000,
+video/segment670.m4s
+#EXTINF: 4.000000,
+video/segment671.m4s
+#EXTINF: 4.000000,
+video/segment672.m4s
+#EXTINF: 4.000000,
+video/segment673.m4s
+#EXTINF: 4.000000,
+video/segment674.m4s
+#EXTINF: 4.000000,
+video/segment675.m4s
+#EXTINF: 4.000000,
+video/segment676.m4s
+#EXTINF: 4.000000,
+video/segment677.m4s
+#EXTINF: 4.000000,
+video/segment678.m4s
+#EXTINF: 4.000000,
+video/segment679.m4s
+#EXTINF: 4.000000,
+video/segment680.m4s
+#EXTINF: 4.000000,
+video/segment681.m4s
+#EXTINF: 4.000000,
+video/segment682.m4s
+#EXTINF: 4.000000,
+video/segment683.m4s
+#EXTINF: 4.000000,
+video/segment684.m4s
+#EXTINF: 4.000000,
+video/segment685.m4s
+#EXTINF: 4.000000,
+video/segment686.m4s
+#EXTINF: 4.000000,
+video/segment687.m4s
+#EXTINF: 4.000000,
+video/segment688.m4s
+#EXTINF: 4.000000,
+video/segment689.m4s
+#EXTINF: 4.000000,
+video/segment690.m4s
+#EXTINF: 4.000000,
+video/segment691.m4s
+#EXTINF: 4.000000,
+video/segment692.m4s
+#EXTINF: 4.000000,
+video/segment693.m4s
+#EXTINF: 4.000000,
+video/segment694.m4s
+#EXTINF: 4.000000,
+video/segment695.m4s
+#EXTINF: 4.000000,
+video/segment696.m4s
+#EXTINF: 4.000000,
+video/segment697.m4s
+#EXTINF: 4.000000,
+video/segment698.m4s
+#EXTINF: 4.000000,
+video/segment699.m4s
+#EXTINF: 4.000000,
+video/segment700.m4s
+#EXTINF: 4.000000,
+video/segment701.m4s
+#EXTINF: 4.000000,
+video/segment702.m4s
+#EXTINF: 4.000000,
+video/segment703.m4s
+#EXTINF: 4.000000,
+video/segment704.m4s
+#EXTINF: 4.000000,
+video/segment705.m4s
+#EXTINF: 4.000000,
+video/segment706.m4s
+#EXTINF: 4.000000,
+video/segment707.m4s
+#EXTINF: 4.000000,
+video/segment708.m4s
+#EXTINF: 4.000000,
+video/segment709.m4s
+#EXTINF: 4.000000,
+video/segment710.m4s
+#EXTINF: 4.000000,
+video/segment711.m4s
+#EXTINF: 4.000000,
+video/segment712.m4s
+#EXTINF: 4.000000,
+video/segment713.m4s
+#EXTINF: 4.000000,
+video/segment714.m4s
+#EXTINF: 4.000000,
+video/segment715.m4s
+#EXTINF: 4.000000,
+video/segment716.m4s
+#EXTINF: 4.000000,
+video/segment717.m4s
+#EXTINF: 4.000000,
+video/segment718.m4s
+#EXTINF: 4.000000,
+video/segment719.m4s
+#EXTINF: 4.000000,
+video/segment720.m4s
+#EXTINF: 4.000000,
+video/segment721.m4s
+#EXTINF: 4.000000,
+video/segment722.m4s
+#EXTINF: 4.000000,
+video/segment723.m4s
+#EXTINF: 4.000000,
+video/segment724.m4s
+#EXTINF: 4.000000,
+video/segment725.m4s
+#EXTINF: 4.000000,
+video/segment726.m4s
+#EXTINF: 4.000000,
+video/segment727.m4s
+#EXTINF: 4.000000,
+video/segment728.m4s
+#EXTINF: 4.000000,
+video/segment729.m4s
+#EXTINF: 4.000000,
+video/segment730.m4s
+#EXTINF: 4.000000,
+video/segment731.m4s
+#EXTINF: 4.000000,
+video/segment732.m4s
+#EXTINF: 4.000000,
+video/segment733.m4s
+#EXTINF: 4.000000,
+video/segment734.m4s
+#EXTINF: 4.000000,
+video/segment735.m4s
+#EXTINF: 4.000000,
+video/segment736.m4s
+#EXTINF: 4.000000,
+video/segment737.m4s
+#EXTINF: 4.000000,
+video/segment738.m4s
+#EXTINF: 4.000000,
+video/segment739.m4s
+#EXTINF: 4.000000,
+video/segment740.m4s
+#EXTINF: 4.000000,
+video/segment741.m4s
+#EXTINF: 4.000000,
+video/segment742.m4s
+#EXTINF: 4.000000,
+video/segment743.m4s
+#EXTINF: 4.000000,
+video/segment744.m4s
+#EXTINF: 4.000000,
+video/segment745.m4s
+#EXTINF: 4.000000,
+video/segment746.m4s
+#EXTINF: 4.000000,
+video/segment747.m4s
+#EXTINF: 4.000000,
+video/segment748.m4s
+#EXTINF: 4.000000,
+video/segment749.m4s
+#EXTINF: 4.000000,
+video/segment750.m4s
+#EXTINF: 4.000000,
+video/segment751.m4s
+#EXTINF: 4.000000,
+video/segment752.m4s
+#EXTINF: 4.000000,
+video/segment753.m4s
+#EXTINF: 4.000000,
+video/segment754.m4s
+#EXTINF: 4.000000,
+video/segment755.m4s
+#EXTINF: 4.000000,
+video/segment756.m4s
+#EXTINF: 4.000000,
+video/segment757.m4s
+#EXTINF: 4.000000,
+video/segment758.m4s
+#EXTINF: 4.000000,
+video/segment759.m4s
+#EXTINF: 4.000000,
+video/segment760.m4s
+#EXTINF: 4.000000,
+video/segment761.m4s
+#EXTINF: 4.000000,
+video/segment762.m4s
+#EXTINF: 4.000000,
+video/segment763.m4s
+#EXTINF: 4.000000,
+video/segment764.m4s
+#EXTINF: 4.000000,
+video/segment765.m4s
+#EXTINF: 4.000000,
+video/segment766.m4s
+#EXTINF: 4.000000,
+video/segment767.m4s
+#EXTINF: 4.000000,
+video/segment768.m4s
+#EXTINF: 4.000000,
+video/segment769.m4s
+#EXTINF: 4.000000,
+video/segment770.m4s
+#EXTINF: 4.000000,
+video/segment771.m4s
+#EXTINF: 4.000000,
+video/segment772.m4s
+#EXTINF: 4.000000,
+video/segment773.m4s
+#EXTINF: 4.000000,
+video/segment774.m4s
+#EXTINF: 4.000000,
+video/segment775.m4s
+#EXTINF: 4.000000,
+video/segment776.m4s
+#EXTINF: 4.000000,
+video/segment777.m4s
+#EXTINF: 4.000000,
+video/segment778.m4s
+#EXTINF: 4.000000,
+video/segment779.m4s
+#EXTINF: 4.000000,
+video/segment780.m4s
+#EXTINF: 4.000000,
+video/segment781.m4s
+#EXTINF: 4.000000,
+video/segment782.m4s
+#EXTINF: 4.000000,
+video/segment783.m4s
+#EXTINF: 4.000000,
+video/segment784.m4s
+#EXTINF: 4.000000,
+video/segment785.m4s
+#EXTINF: 4.000000,
+video/segment786.m4s
+#EXTINF: 4.000000,
+video/segment787.m4s
+#EXTINF: 4.000000,
+video/segment788.m4s
+#EXTINF: 4.000000,
+video/segment789.m4s
+#EXTINF: 4.000000,
+video/segment790.m4s
+#EXTINF: 4.000000,
+video/segment791.m4s
+#EXTINF: 4.000000,
+video/segment792.m4s
+#EXTINF: 4.000000,
+video/segment793.m4s
+#EXTINF: 4.000000,
+video/segment794.m4s
+#EXTINF: 4.000000,
+video/segment795.m4s
+#EXTINF: 4.000000,
+video/segment796.m4s
+#EXTINF: 4.000000,
+video/segment797.m4s
+#EXTINF: 4.000000,
+video/segment798.m4s
+#EXTINF: 4.000000,
+video/segment799.m4s
+#EXTINF: 4.000000,
+video/segment800.m4s
+#EXTINF: 4.000000,
+video/segment801.m4s
+#EXTINF: 4.000000,
+video/segment802.m4s
+#EXTINF: 4.000000,
+video/segment803.m4s
+#EXTINF: 4.000000,
+video/segment804.m4s
+#EXTINF: 4.000000,
+video/segment805.m4s
+#EXTINF: 4.000000,
+video/segment806.m4s
+#EXTINF: 4.000000,
+video/segment807.m4s
+#EXTINF: 4.000000,
+video/segment808.m4s
+#EXTINF: 4.000000,
+video/segment809.m4s
+#EXTINF: 4.000000,
+video/segment810.m4s
+#EXTINF: 4.000000,
+video/segment811.m4s
+#EXTINF: 4.000000,
+video/segment812.m4s
+#EXTINF: 4.000000,
+video/segment813.m4s
+#EXTINF: 4.000000,
+video/segment814.m4s
+#EXTINF: 4.000000,
+video/segment815.m4s
+#EXTINF: 4.000000,
+video/segment816.m4s
+#EXTINF: 4.000000,
+video/segment817.m4s
+#EXTINF: 4.000000,
+video/segment818.m4s
+#EXTINF: 4.000000,
+video/segment819.m4s
+#EXTINF: 4.000000,
+video/segment820.m4s
+#EXTINF: 4.000000,
+video/segment821.m4s
+#EXTINF: 4.000000,
+video/segment822.m4s
+#EXTINF: 4.000000,
+video/segment823.m4s
+#EXTINF: 4.000000,
+video/segment824.m4s
+#EXTINF: 4.000000,
+video/segment825.m4s
+#EXTINF: 4.000000,
+video/segment826.m4s
+#EXTINF: 4.000000,
+video/segment827.m4s
+#EXTINF: 4.000000,
+video/segment828.m4s
+#EXTINF: 4.000000,
+video/segment829.m4s
+#EXTINF: 4.000000,
+video/segment830.m4s
+#EXTINF: 4.000000,
+video/segment831.m4s
+#EXTINF: 4.000000,
+video/segment832.m4s
+#EXTINF: 4.000000,
+video/segment833.m4s
+#EXTINF: 4.000000,
+video/segment834.m4s
+#EXTINF: 4.000000,
+video/segment835.m4s
+#EXTINF: 4.000000,
+video/segment836.m4s
+#EXTINF: 4.000000,
+video/segment837.m4s
+#EXTINF: 4.000000,
+video/segment838.m4s
+#EXTINF: 4.000000,
+video/segment839.m4s
+#EXTINF: 4.000000,
+video/segment840.m4s
+#EXTINF: 4.000000,
+video/segment841.m4s
+#EXTINF: 4.000000,
+video/segment842.m4s
+#EXTINF: 4.000000,
+video/segment843.m4s
+#EXTINF: 4.000000,
+video/segment844.m4s
+#EXTINF: 4.000000,
+video/segment845.m4s
+#EXTINF: 4.000000,
+video/segment846.m4s
+#EXTINF: 4.000000,
+video/segment847.m4s
+#EXTINF: 4.000000,
+video/segment848.m4s
+#EXTINF: 4.000000,
+video/segment849.m4s
+#EXTINF: 4.000000,
+video/segment850.m4s
+#EXTINF: 4.000000,
+video/segment851.m4s
+#EXTINF: 4.000000,
+video/segment852.m4s
+#EXTINF: 4.000000,
+video/segment853.m4s
+#EXTINF: 4.000000,
+video/segment854.m4s
+#EXTINF: 4.000000,
+video/segment855.m4s
+#EXTINF: 4.000000,
+video/segment856.m4s
+#EXTINF: 4.000000,
+video/segment857.m4s
+#EXTINF: 4.000000,
+video/segment858.m4s
+#EXTINF: 4.000000,
+video/segment859.m4s
+#EXTINF: 4.000000,
+video/segment860.m4s
+#EXTINF: 4.000000,
+video/segment861.m4s
+#EXTINF: 4.000000,
+video/segment862.m4s
+#EXTINF: 4.000000,
+video/segment863.m4s
+#EXTINF: 4.000000,
+video/segment864.m4s
+#EXTINF: 4.000000,
+video/segment865.m4s
+#EXTINF: 4.000000,
+video/segment866.m4s
+#EXTINF: 4.000000,
+video/segment867.m4s
+#EXTINF: 4.000000,
+video/segment868.m4s
+#EXTINF: 4.000000,
+video/segment869.m4s
+#EXTINF: 4.000000,
+video/segment870.m4s
+#EXTINF: 4.000000,
+video/segment871.m4s
+#EXTINF: 4.000000,
+video/segment872.m4s
+#EXTINF: 4.000000,
+video/segment873.m4s
+#EXTINF: 4.000000,
+video/segment874.m4s
+#EXTINF: 4.000000,
+video/segment875.m4s
+#EXTINF: 4.000000,
+video/segment876.m4s
+#EXTINF: 4.000000,
+video/segment877.m4s
+#EXTINF: 4.000000,
+video/segment878.m4s
+#EXTINF: 4.000000,
+video/segment879.m4s
+#EXTINF: 4.000000,
+video/segment880.m4s
+#EXTINF: 4.000000,
+video/segment881.m4s
+#EXTINF: 4.000000,
+video/segment882.m4s
+#EXTINF: 4.000000,
+video/segment883.m4s
+#EXTINF: 4.000000,
+video/segment884.m4s
+#EXTINF: 4.000000,
+video/segment885.m4s
+#EXTINF: 4.000000,
+video/segment886.m4s
+#EXTINF: 4.000000,
+video/segment887.m4s
+#EXTINF: 4.000000,
+video/segment888.m4s
+#EXTINF: 4.000000,
+video/segment889.m4s
+#EXTINF: 4.000000,
+video/segment890.m4s
+#EXTINF: 4.000000,
+video/segment891.m4s
+#EXTINF: 4.000000,
+video/segment892.m4s
+#EXTINF: 4.000000,
+video/segment893.m4s
+#EXTINF: 4.000000,
+video/segment894.m4s
+#EXTINF: 4.000000,
+video/segment895.m4s
+#EXTINF: 4.000000,
+video/segment896.m4s
+#EXTINF: 4.000000,
+video/segment897.m4s
+#EXTINF: 4.000000,
+video/segment898.m4s
+#EXTINF: 4.000000,
+video/segment899.m4s
+#EXTINF: 4.000000,
+video/segment900.m4s
+#EXTINF: 4.000000,
+video/segment901.m4s
+#EXTINF: 4.000000,
+video/segment902.m4s
+#EXTINF: 4.000000,
+video/segment903.m4s
+#EXTINF: 4.000000,
+video/segment904.m4s
+#EXTINF: 4.000000,
+video/segment905.m4s
+#EXTINF: 4.000000,
+video/segment906.m4s
+#EXTINF: 4.000000,
+video/segment907.m4s
+#EXTINF: 4.000000,
+video/segment908.m4s
+#EXTINF: 4.000000,
+video/segment909.m4s
+#EXTINF: 4.000000,
+video/segment910.m4s
+#EXTINF: 4.000000,
+video/segment911.m4s
+#EXTINF: 4.000000,
+video/segment912.m4s
+#EXTINF: 4.000000,
+video/segment913.m4s
+#EXTINF: 4.000000,
+video/segment914.m4s
+#EXTINF: 4.000000,
+video/segment915.m4s
+#EXTINF: 4.000000,
+video/segment916.m4s
+#EXTINF: 4.000000,
+video/segment917.m4s
+#EXTINF: 4.000000,
+video/segment918.m4s
+#EXTINF: 4.000000,
+video/segment919.m4s
+#EXTINF: 4.000000,
+video/segment920.m4s
+#EXT-X-ENDLIST
