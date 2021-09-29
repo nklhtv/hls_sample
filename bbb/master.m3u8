@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:7
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",NAME="Video",AUTOSELECT=YES,DEFAULT=YES
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio",AUTOSELECT=YES,DEFAULT=YES,URI="audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio",AUTOSELECT=YES,DEFAULT=YES,URI="audio.m3u8?mediaURL=file%3A%2F%2F%2Fhome%2Fslim%2Fstremio%2Fserver%2Fdemo%2Finput%2Fbbb_sunflower_2160p_60fps_normal.mp4"
 #EXT-X-STREAM-INF:BANDWIDTH=164000,VIDEO="video",AUDIO="audio",NAME="Main"
-video.m3u8
+video.m3u8?mediaURL=file%3A%2F%2F%2Fhome%2Fslim%2Fstremio%2Fserver%2Fdemo%2Finput%2Fbbb_sunflower_2160p_60fps_normal.mp4
